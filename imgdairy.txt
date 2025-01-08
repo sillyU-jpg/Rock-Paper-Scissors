@@ -1,0 +1,3 @@
+when user launches onto website, check database for latest post
+return latest database entry, display image,text and date
+when the user selects the archive return dated list, maybe with small images
